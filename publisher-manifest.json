@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "45a60541cc34f71cb86217aa",
+  "owner": "pwk8xwvp",
+  "repo": "page-794e2b726d07597636344ac0",
+  "title": "光速云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "794e2b726d07597636344ac0",
+      "a": "光速云",
+      "b": "2027最新官网",
+      "entity": "光速云",
+      "brand": "光速云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "34693603e7cbfb1c0473ea0fbf58894298b179f4b88485d886fc85368722910a",
+      "content": {
+        "primary_entity": "光速云",
+        "keyword1": "光速云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，订阅导入后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端适配选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更轻松",
+          "AI_DESCRIPTION": "，光速云提供基础版、旗舰版和团队版三档套餐，分别对应每月100GB、300GB和1000GB流量，支持3台、5台和20台设备在线。旗舰版解锁全节点原生流媒体并针对游戏加速优化，团队版提供VIP高带宽节点和企业定制路由。",
+          "AI_FEATURES_INTRO": "围绕使用场景选择套餐，参考设备数量与月流量需求。",
+          "AI_FEATURES_TITLE": "功能与套餐亮点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB、5台设备，IPLC专线优化游戏与高清视频。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB、20台设备，VIP节点与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "入门流量方案",
+          "AI_FEATURE_TITLE_2": "进阶加速体验",
+          "AI_FEATURE_TITLE_3": "多人协作配置",
+          "AI_GUIDE_INTRO": "从选择套餐到订阅导入，按步骤完成基础配置。",
+          "AI_GUIDE_TITLE": "使用流程指引",
+          "AI_HERO_INTRO": "光速云提供基础版、旗舰版和团队版三档套餐，覆盖每月100GB至1000GB流量，支持3至20台设备同时在线。旗舰版针对流媒体与游戏加速优化，团队版适合多设备协作场景。",
+          "AI_HERO_SUBTITLE": "光速云套餐与客户端配置",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量与设备数",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线优化游戏延迟",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备与定制路由",
+          "AI_PLANS_INTRO": "基础版¥15/月，年付¥150；旗舰版¥35/月，年付¥350；团队版¥85/月，年付¥850。按设备数量和月流量选择对应档位。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据月流量和设备数量，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备范围与流媒体、游戏加速等适配说明。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅信息，完成连接配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "光速云套餐随心选",
+          "AI_FAQ_ANSWER_1": "基础版月付 ¥15，提供 100GB 流量、3 台设备同时在线；旗舰版月付 ¥35，300GB 流量、5 台设备，含 IPLC 专线；团队版月付 ¥85，1000GB 流量、20 台设备，适合团队。按年付分别 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。家中手机、电脑、平板合计一般 3 至 5 台，旗舰版较合适；若需分享给同事或家庭成员，团队版更宽裕。",
+          "AI_FAQ_ANSWER_3": "光速云提供 Windows、macOS、Android、iOS 客户端。Windows 推荐 Clash Verge，macOS 推荐 ClashX Pro，Android 推荐 Clash Meta for Android，iOS 推荐 Shadowrocket。具体版本可参考客户端文档。",
+          "AI_FAQ_ANSWER_4": "团队版支持企业定制路由，可配置专属节点策略；同时提供专属客户经理服务。若需多设备、高流量与优先支持，团队版是更省心的选择。",
+          "AI_FAQ_ANSWER_5": "按年付比月付节省更多，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。如果确定长期使用，选年付更划算；不确定可先月付试用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "光速云三档套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量怎么选？",
+          "AI_FAQ_QUESTION_3": "不同系统该用哪个客户端？",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选更划算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hgxbw.cn",
+    "host": "hgxbw.cn"
+  },
+  "file_hashes": {
+    "index.html": "453e6ba1cac5705ef9cc194407bfd9e8ee1f5d6264de452bef65634fc9e9f904",
+    "sitemap.xml": "c49a80e51ea1e48ca6f5749f46c7c055d926998517483f38b12ef1c83f9f60cf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "76ce60805fece5c0c462671c295e6b9351558da93de254f5b983e712ac2aa86a",
+    "robots.txt": "80fdb0451c9c76901efd45623db6e7875d3bbb2ec99f711df7214d1803ff6ffc",
+    "ad6001089c6804874391de3023ef8a7f.txt": "726f8d03632c48225d15bfb6300be32460da66995d8e4322cf963d6d69eb41e9"
+  },
+  "revision": "b3e194f265b506d7c7d5f150698b603f066dec693d340427a765887ed91b82d7"
+}
